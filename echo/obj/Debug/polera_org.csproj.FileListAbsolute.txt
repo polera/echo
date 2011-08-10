@@ -1,9 +1,0 @@
-C:\org\projects\polera_org\polera_org\obj\Debug\ResolveAssemblyReference.cache
-C:\org\projects\polera_org\polera_org\bin\polera_org.dll
-C:\org\projects\polera_org\polera_org\bin\polera_org.pdb
-C:\org\projects\polera_org\polera_org\bin\Nancy.dll
-C:\org\projects\polera_org\polera_org\bin\Nancy.Hosting.Aspnet.dll
-C:\org\projects\polera_org\polera_org\bin\Nancy.ViewEngines.Razor.dll
-C:\org\projects\polera_org\polera_org\bin\System.Web.Razor.dll
-C:\org\projects\polera_org\polera_org\obj\Debug\polera_org.dll
-C:\org\projects\polera_org\polera_org\obj\Debug\polera_org.pdb

@@ -1,0 +1,7 @@
+_ReSharper.echo/*
+echo.6.0.ReSharper.user
+echo/bin/*
+echo/obj/*
+echo/Web.Debug.config
+echo/echo.csproj.user
+
